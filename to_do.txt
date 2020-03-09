@@ -1,0 +1,3 @@
+set_wave_band
+chose_fits_from right waveband
+
